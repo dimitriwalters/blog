@@ -4,10 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+I'm a computer science student at the University of Waterloo. I started this blog mainly to give advice - I already have a diary for random thoughts - and partly to force myself to come up with something to write about or finish thinking about my thoughts fully. Just a disclaimer - I'm only 22, but I'm a huge perfectionist and over-analyze mistakes I make throughout the day or some other time in my life. I'm an INTJ too if that helps. And if that wasn't enough information, you can always [email](mailto:me@dimi.io) me too!
