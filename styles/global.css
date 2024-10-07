@@ -18,18 +18,28 @@ body {
   font-size: 18px;
 }
 
+body {
+  border-top: 2rem solid #d2334f;
+  color: #343a40;
+}
+
 * {
   box-sizing: border-box;
 }
 
 a {
-  color: #0070f3;
+  color: #d2334f;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
 }
+
+a:hover, a:focus, a:active {
+  color: #de1814;
+}
+
 
 img {
   max-width: 100%;
