@@ -1,6 +1,6 @@
 ---
 title: 'Git Guide for Teams (Integrating Changes)'
-date: '2024-10-03'
+date: '2024-09-30'
 ---
 
 This is a all-you-need-to-know guide for using Git while working in a team. Even for veterans using Git memorizing all the commands is tiring so here's a simple guide.
