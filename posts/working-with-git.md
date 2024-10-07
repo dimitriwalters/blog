@@ -1,11 +1,11 @@
 ---
 title: 'Using Git when working in a team (integrating changes)'
-date: '2024-09-23'
+date: '2024-09-14'
 ---
 
 This is a all-you-need-to-know guide for using Git while working in a team. Even for veterans using Git memorizing all the commands is tiring so here's a simple guide.
 
-Besides basic commands like `git add` and `git commit`, the main question is how to integrate your changes into the `main` branch of your repository.
+Besides basic commands like `git add` and `git commit`, the main question is: how to integrate your changes into the `main` branch of your repository?
 
 We will first assume your team is using feature branches which leaves you with the problem of integrating other people's changes into your own branch. What you must do is `rebase` the `main` branch, and then incorporate the latest changes into your own by doing so:
 
