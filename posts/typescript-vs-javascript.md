@@ -1,6 +1,6 @@
 ---
 title: 'When TypeScript is better than JavaScript'
-date: '2024-10-21'
+date: '2024-11-08'
 ---
 
-This blog post is coming soon!
+This blog is scheduled to release on November 8th!
