@@ -11,15 +11,15 @@ brew install go
 
 [(or a similar installation)](https://go.dev/doc/install)
 
-Whenever you need to use a third-party package your simply run
+Whenever you need to use a third-party package you simply run
 
 ```
 go get github.com/gorilla/mux
 ```
 
-This installs packages in your `$GOPATH`. And even if you forget to run these commands the compiler will tell you to do so anyways.
+This installs packages in your `$GOPATH`. If you forget to run these commands the compiler will reminder you to do so.
 
-To use a package you import it at the beginning of you file:
+To use a package you import it at the beginning of your file:
 
 ```
 import (
@@ -32,6 +32,6 @@ import (
 )
 ```
 
-All of these are from standard library (which will probably be sufficient for 95% of code you write); also it's in alphabetical order by convention.
+In this case, all of these imports are from standard library (which will be sufficient for a lot of code you write); the packages are also listed in alphabetical order by convention.
 
-This guide should get you started with running some Go code. Next blog will get into Go primitive types and operations, and after that concurrency.
+This guide should get you started with running some Go code. Next topic will get into Go primitives and concurrency.
